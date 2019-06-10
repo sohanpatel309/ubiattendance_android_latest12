@@ -7,7 +7,7 @@ import 'about.dart';
 import 'package:Shrine/services/services.dart';
 import 'home.dart';
 import 'settings.dart';
-import 'Reports.dart';
+import 'reports.dart';
 import 'globals.dart';
 import 'package:share/share.dart';
 import 'package:launch_review/launch_review.dart';
